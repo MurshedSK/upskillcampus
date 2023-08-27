@@ -30,7 +30,7 @@ To get started with the URL Shortener Application, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Ensure you have Python and required libraries (Tkinter, Pyshorteners, Pyperclip) installed.
-3. Run the application using `python url_shortener.py`.
+3. Run the application using `python URLShortenerusingPython.py`.
 4. Input the desired URL and click the "Generate" button to obtain a shortened link.
 5. Use the "Copy" button to copy the shortened link to the clipboard.
 
