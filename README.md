@@ -10,7 +10,14 @@ Welcome to the URL Shortener Application repository! This project aims to provid
 - [Usage](#usage)
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
+<<<<<<< HEAD
 - [Acknowledgments](#acknowledgments)
+=======
+<<<<<<< HEAD
+=======
+- [Acknowledgments](#acknowledgments)
+>>>>>>> d84c375f1ea1d5e0000ff2f9d00820aff62edc71
+>>>>>>> 56bd5ed421f9204ce8af5e9eaf522f3eb2ef04e8
 - [License](#license)
 
 ## Introduction
@@ -50,10 +57,19 @@ While the current version of the application provides essential features, there 
 
 Contributions to this project are welcomed! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 56bd5ed421f9204ce8af5e9eaf522f3eb2ef04e8
 ## Acknowledgments
 
 I would like to express my heartfelt gratitude to Upskill Campus (USC), The IoT Academy, and UniConverge Technologies Pvt Ltd (UCT) for providing an invaluable opportunity for skill development and practical learning. This internship empowered me with access to a structured curriculum, expert guidance, and hands-on projects that enabled me to enhance my programming knowledge. The collaborative environment and resources facilitated my transition from a physics-focused background to mastering programming skills, thus expanding my career horizons. The support and mentorship received during this journey were instrumental in equipping me with the skills required to tackle real-world challenges and contribute effectively to the technology-driven landscape of today's industries.
 
+<<<<<<< HEAD
+=======
+>>>>>>> d84c375f1ea1d5e0000ff2f9d00820aff62edc71
+>>>>>>> 56bd5ed421f9204ce8af5e9eaf522f3eb2ef04e8
 ## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code according to the terms of the license.
