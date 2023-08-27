@@ -10,6 +10,7 @@ Welcome to the URL Shortener Application repository! This project aims to provid
 - [Usage](#usage)
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
+- [Acknowledgments](#acknowledgments)
 - [License](#license)
 
 ## Introduction
@@ -48,6 +49,10 @@ While the current version of the application provides essential features, there 
 ## Contributing
 
 Contributions to this project are welcomed! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.
+
+## Acknowledgments
+
+I would like to express my heartfelt gratitude to Upskill Campus (USC), The IoT Academy, and UniConverge Technologies Pvt Ltd (UCT) for providing an invaluable opportunity for skill development and practical learning. This internship empowered me with access to a structured curriculum, expert guidance, and hands-on projects that enabled me to enhance my programming knowledge. The collaborative environment and resources facilitated my transition from a physics-focused background to mastering programming skills, thus expanding my career horizons. The support and mentorship received during this journey were instrumental in equipping me with the skills required to tackle real-world challenges and contribute effectively to the technology-driven landscape of today's industries.
 
 ## License
 
